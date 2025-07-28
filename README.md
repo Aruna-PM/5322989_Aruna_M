@@ -6,22 +6,22 @@ This repository documents my progress in the **Agile for Beginners** course offe
 
 ## Course: Agile for Beginners (Great Learning)
 
-### Module Completion
+### Modules Covered
 I have successfully completed the video modules, including:
 - Waterfall vs. Agile Methodology
 - Other SDLC Model vs. Agile Methodology 
 - Advantages and Disadvantages of Agile
 - Summary – Agile Methodology
 
-### 📝 Quiz Completed
+### 📝 Quiz Completed - Great Learning
 - **Title**:Quiz for Agile  
 - **Attempts**:1 out of 3  
 - **Score**:5 out of 5  
 - **Date**:21st July 2025  
 - **Screenshot:** [GreatLearning]
-  <img src="https://github.com/Aruna-PM/5322989_Aruna_M/blob/main/SDLC/Quiz_Score.png" alt="5322989_Aruna_M">
+  <img src="https://github.com/Aruna-PM/5322989_Aruna_M/blob/main/SDLC/5322989_Aruna_M.png" alt="5322989_Aruna_M">
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Git Training & Project – Simplilearn with Certification Progress
 
@@ -38,4 +38,4 @@ I have successfully completed the video modules, including:
 - **Certificate** :[SimplilearnCertification]
  <img src="https://github.com/Aruna-PM/5322989_Aruna_M/blob/main/Git/5322989_Aruna_M.png" alt="5322989_Aruna_M">
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

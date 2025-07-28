@@ -19,11 +19,12 @@ I have successfully completed the video modules, including:
 - **Score:** 5 out of 5  
 - **Date:** 21st July 2025  
 - **Screenshot:**  
-  ![Quiz Score](1.0.Quiz_Score.png)
+  ![Quiz Score]
+  <img src="(https://github.com/Aruna-PM/5322989_Aruna_M/blob/main/SDLC/1.0.Quiz_Score.png)" alt="Quiz_SCore" width="300"/>
 
 ### 📺 Module Completion Screenshot  
-  ![Module Completion](1.1Module_end.png)
-
+  ![Module Completion]
+  <img src="SDLC/1.1Module_end.png.png" alt="1.1Module_end.png.png">
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 

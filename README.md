@@ -21,7 +21,7 @@ I have successfully completed the video modules, including:
 - **Screenshot:** [GreatLearning]
   <img src="https://github.com/Aruna-PM/5322989_Aruna_M/blob/main/SDLC/5322989_Aruna_M.png" alt="5322989_Aruna_M">
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Git Training & Project – Simplilearn with Certification Progress
 
@@ -34,8 +34,13 @@ I have successfully completed the video modules, including:
 ### Git Training – Simplilearn
 - **Name**:Aruna M  
 - **Date**:24th July 2025  
-- **Certificate Code** :8680043  
 - **Certificate** :[SimplilearnCertification]
  <img src="https://github.com/Aruna-PM/5322989_Aruna_M/blob/main/Git/5322989_Aruna_M.png" alt="5322989_Aruna_M">
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ### Git Training - CodeSignal
+ - **Name**:
+- **Name**:Aruna M  
+- **Date**:29th July 2025  
+- **Certificate** :[CodeSignal]
+ <img src="https://github.com/Aruna-PM/5322989_Aruna_M/blob/main/Git/5322989_Aruna_M_codeSignal.png" alt="5322989_Aruna_M_codeSignal">
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------

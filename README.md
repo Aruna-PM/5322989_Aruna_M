@@ -38,7 +38,6 @@ I have successfully completed the video modules, including:
  <img src="https://github.com/Aruna-PM/5322989_Aruna_M/blob/main/Git/5322989_Aruna_M.png" alt="5322989_Aruna_M">
 
  ### Git Training - CodeSignal
- - **Name**:
 - **Name**:Aruna M  
 - **Date**:29th July 2025  
 - **Certificate** :[CodeSignal]

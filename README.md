@@ -1,9 +1,8 @@
 # 5322989_Aruna_M
 
+This repository documents my progress in the **Agile for Beginners** course offered by Great Learning, along with additional certification in **Git** from Simplilearn and CodeSignal and added screnshots of Linux command.
+
 # Agile for Beginners – Quiz and Certification Progress
-
-This repository documents my progress in the **Agile for Beginners** course offered by Great Learning, along with additional certification in **Git** from Simplilearn.
-
 ## Course: Agile for Beginners (Great Learning)
 
 ### Modules Covered
@@ -42,4 +41,10 @@ I have successfully completed the video modules, including:
 - **Date**:29th July 2025  
 - **Certificate** :[CodeSignal]
  <img src="https://github.com/Aruna-PM/5322989_Aruna_M/blob/main/Git/5322989_Aruna_M_codeSignal.png" alt="5322989_Aruna_M_codeSignal">
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+
+### Added ScreenShots of Practiced linux command in the linux folder
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -48,3 +48,9 @@ I have successfully completed the video modules, including:
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## C Programing SoloLearn Certification 
+- **Name**:Aruna M  
+- **Date**:04th August 2025  
+- **Certificate** :[SoloLearnCertification]
+ <img src="https://github.com/Aruna-PM/5322989_Aruna_M/blob/main/C_Programing/5322989_Aruna_M.png" alt="5322989_Aruna_M_SoloLearn">
